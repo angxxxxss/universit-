@@ -1,0 +1,16 @@
+{
+  "name": "universita-dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode"
+      ]
+    }
+  },
+  "forwardPorts": [4000, 3000],
+  "postCreateCommand": "npm --version"
+}

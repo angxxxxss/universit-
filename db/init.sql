@@ -1,0 +1,2 @@
+-- (inserire qui lo script SQL esatto fornito dall'utente)
+-- [PASTE QUI LO SCRIPT SQL FORNITO: CREATE DATABASE universita; CREATE TABLE ... ALTER TABLE ... INSERT ...]
